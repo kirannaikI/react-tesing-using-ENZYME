@@ -1,3 +1,3 @@
 
-# unit-tesing-using-ENZYME and JEST
+# unit-tesing ENZYME and JEST
 
